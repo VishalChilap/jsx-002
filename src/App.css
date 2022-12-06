@@ -36,3 +36,29 @@
     transform: rotate(360deg);
   }
 }
+
+.heading{
+  width: 50%;
+  font-size: 60px;
+  margin: 100px auto 50px;
+  text-align: center;
+  color: white;
+}
+
+.subHeading{
+  font-size: 25px;
+  color: white;
+  text-align: center;
+}
+
+.logo{
+  text-align: center;
+  margin-top: 20px;
+  color: white;
+}
+
+.img{
+  padding: auto;
+  width: 100px;
+  height: 100px;
+}
